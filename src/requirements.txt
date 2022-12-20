@@ -1,0 +1,10 @@
+opencv-python
+dlib
+numpy
+matplotlib
+imageio
+scikit-image
+torchsummary
+tqdm
+torch
+imutils

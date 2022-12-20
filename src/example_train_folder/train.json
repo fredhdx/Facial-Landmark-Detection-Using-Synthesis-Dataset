@@ -1,0 +1,15 @@
+{
+    "data_dir": "/Users/dongxuhuang/Downloads/Landmark",
+    "bbox_option": "dlib",
+    "size": "2000",
+    "ft_ratio": "0.7",
+    "train_test_split": "1.0",
+    "image_dim": "128",
+    "brightness": "0.24",
+    "saturation": "0.3",
+    "contrast": "0.15",
+    "hue": "0.14",
+    "angle": "14",
+    "face_offset": "32",
+    "crop_offset": "16"
+}
