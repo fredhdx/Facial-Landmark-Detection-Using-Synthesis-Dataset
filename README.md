@@ -1,5 +1,8 @@
 # Facial Landmark Detection With Synthetic Data
 
+> Training an Xception network for facial landmark detection using Microsoft Synthesis data. Main contribution is the discovery of some nuanced parameters and relations during training which affect the final accuracy. ![image](https://github.com/fredhdx/Facial-Landmark-Detection-Using-Synthesis-Dataset/assets/12376953/2a98fa13-3ae6-4697-82d0-18d9cf2a8910)
+
+
 # Acknowledgement
 
 This project makes use of the following repositories:
